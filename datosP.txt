@@ -1,0 +1,6 @@
+//java
+int x=0;
+if(x>1){
+x=x+1;
+}
+System.out.println(x);
